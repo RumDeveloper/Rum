@@ -10,13 +10,14 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-            <enclosure
-                url="https://github.com/RumDeveloper/Rum/releases/download/v1.0/Rum.dmg"
-                sparkle:version="1"
-                type="application/octet-stream"
-                sparkle:edSignature="PLACEHOLDER"
-                length="0"
-            />
+<enclosure
+    url="https://github.com/RumDeveloper/Rum/releases/download/v1.0/Rum.dmg"
+    sparkle:version="1"
+    sparkle:shortVersionString="1.0"
+    type="application/octet-stream"
+    sparkle:edSignature="rLC3G3qHOyj8Qsl+qL0wVB24XrFF3X63m6mIwlXA2x0RTOdzs9isKj/KXUsG5ddb8yX9abnuyep/aRoMB9BvBQ=="
+    length="4617063"
+/>
         </item>
     </channel>
 </rss>
